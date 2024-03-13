@@ -41,7 +41,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](images/finovate.png)
 
 The Finovate project was developed for Finovate SACCO Kenya. The app helps SACCO users to easily access SACCO services and managed their accounts. It connects to the SACCO API allowing individuals to perform actions like deposit money to their accounts, withdraw, create savings accounts with targets, and access loans from the SACCO. This app also features a second part for savings groups (Chamas) that allow individuals to join the SACCO in groups and own a group account making it easy for them to operate their savings groups in a digital space.
 
